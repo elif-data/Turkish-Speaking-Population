@@ -1,6 +1,6 @@
 # Turkish-as-Main-Language
 
-Have you ever met a Turkish person who supports Tottenham FC? Well, if you’ve met one, this map might just explain why! 🗺⚽
+Have you ever met a Turkish person who supports Tottenham FC? Well, if you’ve met one, this map might just explain why! 🗺⚽🇹🇷
 
 Using publicly available [census data](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/bulletins/languageenglandandwales/census2021#measuring-the-data), I created a map that shows the percentage of people in London who speak Turkish as their main language. To my surprise, Tottenham stands out as the area with the highest concentration of Turkish speakers in the entire city. This insight opens up a fascinating connection between the local community and their football team.
 
